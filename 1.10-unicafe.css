@@ -1,0 +1,16 @@
+.statistics-table {
+    margin: 20px 0;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+.statistics-table th,
+.statistics-table td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+}
+
+.statistics-table th {
+    background-color: #ddd;
+}
